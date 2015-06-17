@@ -1,13 +1,13 @@
 {
-    "name": "sebastian/t1",
-    "authors": [
-        {
-            "name": "Sebastin Pożoga",
-            "email": "prog255@gmail.com"
-        }
-    ],
-    "require": {
-        "sebastianpozoga/php-allegroapi": "dev-master"
-    },
-    "minimum-stability": "dev"
+  "name": "sebastianpozoga/php-allegroapi-emptyproject",
+  "authors": [
+    {
+      "name": "Sebastin Pożoga",
+      "email": "sebastian@pozoga.eu"
+    }
+  ],
+  "require": {
+    "sebastianpozoga/php-allegroapi": "dev-master"
+  },
+  "minimum-stability": "dev"
 }
